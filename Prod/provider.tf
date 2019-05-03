@@ -3,7 +3,7 @@ provider "aws" {
 }
 terraform {
   backend "s3" {
-    bucket = "terraform-december-dilfuza2"
+    bucket = "terraform-december-dilfuza2-prod"
     key = "prod"
     region = "us-east-1"
   }
