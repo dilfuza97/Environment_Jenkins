@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "terraform-december-dilfuza-qa"
+    bucket = "terraform-january-dilfuza2"
     key    = "qa"
     region = "us-east-1"
   }
