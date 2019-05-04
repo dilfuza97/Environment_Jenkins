@@ -1,9 +1,8 @@
-ami               =           
-instance_type     =           
-count             =            
-key_name          =          
-Created_by        =           
-Env               =           
-Dept              =           
-vpc               =         
-         
+ami               =  "ami-07683a44e80cd32c5"          
+instance_type     =  "t2.micro"         
+count             =        "2"    
+key_name          =     "developer"     
+Created_by        =     "dilfuza"      
+Env               =        "stage"   
+Dept              =         "IT"  
+vpc               =         "vpc-02695f64"
